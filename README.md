@@ -16,19 +16,18 @@ A simple Twitch Bot example for HunterPie-related commands.
 
 ## Environmental Variables
 
-This bot uses the variables in the `.env` file to connect to your bot.
+This bot uses the variables in the `.env` file to connect to your bot. Example:
 
 ```py
 # Your bot username
-BOT_USERNAME =
+BOT_USERNAME = MyBotName
 
 # Your bot OAuth prefixed by oauth:, you can get it here: https://twitchapps.com/tmi/
-OAUTH_TOKEN =
+OAUTH_TOKEN = oauth:myBotOauthToken1234
 
 # Channels where you want to run the bot, If there are more than one, they need to be comma separated
-CHANNEL_NAMES =
+CHANNEL_NAMES = Haato__
 
-# Absolute Path to HunterPie folder
-HUNTERPIE_FOLDER_PATH =
+# Absolute Path to HunterPie folder with foward slashes
+HUNTERPIE_FOLDER_PATH = C:/Users/Documents/Haato/HunterPie
 ```
-
