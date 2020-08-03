@@ -1,0 +1,26 @@
+{
+  "name": "hunterpie-bot",
+  "version": "1.0.0",
+  "description": "A simple Twitch Bot example for HunterPie-related commands.",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haato3o/HunterPieBot.git"
+  },
+  "author": "Haato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haato3o/HunterPieBot/issues"
+  },
+  "homepage": "https://github.com/Haato3o/HunterPieBot#readme"
+}
