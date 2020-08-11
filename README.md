@@ -40,4 +40,4 @@ Command name | Description | Bot response
 :-----------:|:--------------------------------------------------|:---------
 !id          | Sends your current session ID to your Twitch chat. | `Session Id: 1@a2SdxK63aW`
 !build       | Sends your current build to your Twitch chat, the link is to Honey Hunters World, but it's shortened using Tinyurl. | `My current Bow build: https://tinyurl.com/y6av65mw`
-!rank        | Sends your current character basic information to your Twitch chat. | `Lyss | HR: 308 | MR: 129 | Playtime: 1024:25:30`
+!rank        | Sends your current character basic information to your Twitch chat. | `Lyss \| HR: 308 \| MR: 129 \| Playtime: 1024:25:30`
