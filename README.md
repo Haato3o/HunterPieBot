@@ -1,3 +1,6 @@
+> **READ THIS:** This bot still works, however, HunterPie now supports plugins and it's highly recommended to use the [Twitch Integration plugin](https://github.com/Haato3o/HunterPie.Plugins/tree/master/TwitchIntegration) instead. It's faster, has the same features + have direct access to HunterPie and it's a lot easier to install.
+
+
 # HunterPieBot
 A simple Twitch Bot example for HunterPie-related commands.
 
